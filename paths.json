@@ -1,8 +1,7 @@
 {
   "mappings": [
-    "/content/xsc-xwalk-site/:/",
-    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
-    "/content/xsc-xwalk-site/redirects.json:/redirects.json",
-    "/content/xsc-xwalk-site/configuration.json:/configuration.json"
+    "/content/poulalio/poulalio-2025-1-14-15-43-19/:/",
+    "/content/poulalio/poulalio-2025-1-14-15-43-19/metadata.json:/metadata.json",
+    "/content/poulalio/poulalio-2025-1-14-15-43-19/redirects.json:/redirects.json"
   ]
 }
